@@ -308,9 +308,3 @@ Commandes clavier (mode visuel, compatibles AZERTY) : `ESPACE` pause, `S` capteu
 - Stanley, K. O. & Miikkulainen, R. (2002). Evolving neural networks through augmenting topologies. *Evolutionary Computation*, 10(2), 99-127.
 - Garcia, J. & Koelling, R. A. (1966). Relation of cue to consequence in avoidance learning. *Psychonomic Science*, 4, 123-124.
 - Hurlbert, S. H. (1984). Pseudoreplication and the design of ecological field experiments. *Ecological Monographs*, 54(2), 187-211.
-
----
-
-## Lien avec Triturus Silico
-
-[Triturus Silico](https://github.com/loai-elhaj/Innate-and-acquired-in-Triturus-Silico) montrait *comment* un comportement acquis peut devenir inné sous sélection soutenue (effet Baldwin). Tabula Silico pose la question voisine : en régime permanent, **qu'est-ce qui détermine le dosage** entre inné et acquis ? Les deux dessinent la même interrogation sous deux angles complémentaires — l'évolution du comportement, et l'évolution de la capacité à apprendre elle-même.
